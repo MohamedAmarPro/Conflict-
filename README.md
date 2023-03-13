@@ -1,2 +1,2 @@
-# Conflict-
+REMOTE
 1ére ligne
